@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hi there 
+ر<!-- ================= HEADER ================= -->
+
 <!-- ================= HEADER ================= -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0A192F&text=Mohamed%20Reda%20El-Nikaty&fontSize=38&fontColor=00BFFF&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0D1B2A&text=Mohamed%20Reda%20El-Nikaty&fontSize=40&fontColor=00B4FF&animation=fadeIn" width="100%" />
 </div>
 
 <h2 align="center">
 👨‍🎓 Electrical Power Engineering Student  
-🥋 African Traditional Karate Medalist  
-🌍 International Karate Referee & Coach  
-🚀 Founder | Youth Development Advocate  
-💡 AI & Education Enthusiast
+💻 Front-End Developer Trainee | Madrasa Platform  
+🥋 African Karate Medalist  
+🌍 International Referee & Youth Mentor
 </h2>
 
 <p align="center">
@@ -19,106 +20,81 @@
 
 ---
 
-# 🔥 Who Am I?
-
-I am an engineering student at **Damanhour University** combining  
-technical growth with leadership, sports excellence, and community impact.
-
-I believe in discipline, structured growth, and leaving meaningful impact wherever I go.
-
----
-
-# 🏆 Elite Achievements
-
-🥉 **African Traditional Karate Championship – Bronze Medalist**  
-🥋 **Black Belt 2nd Dan – Sport Karate**  
-🌍 **Certified International Karate Coach**  
-⚖️ **Official Referee – Egyptian Karate Federation**  
-🎖 Officiated 10+ Official Championships  
-
-🏅 Ideal Student & University Representative  
-🎤 Public Speaker & Workshop Leader  
-🏫 Represented University at International AI & Quality Conference  
-
----
-
-# 🎓 Education
-
-**B.Sc. Electrical Power Engineering (Undergraduate)**  
-Damanhour University – Faculty of Engineering  
-
-🎓 High School Score: 93.5% (Top Achiever)
-
----
-
-# 💡 Technical Growth Path
-
-### Currently Learning Front-End Development
-
-- HTML
-- CSS
-- JavaScript (Next Step)
-- React (Planned)
-
-### Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,python,git,github,vscode" />
-</p>
-
----
-
-# 🚀 Leadership & Impact
-
-Founder of **Al-Qimma Academy**  
-Training children on:
-- Confidence
-- Discipline
-- Sports Ethics
-- Character Development
-
-Board Member – Al-Nour Charity Association  
-Organizer of Engineering Exhibition attended by Minister of Higher Education  
-Volunteer – Medical Convoys & National Events  
-
----
-
-# 🧠 Certifications & Training
-
-- Certified Trainer (TOT – Damanhour University)
-- AI Fundamentals – Madrasa
-- Python Programming Basics
-- InnoEgypt Entrepreneurship Program
-- Leadership Programs – Natural Leaders
-- First Aid Certified
-
----
-
-# 🌍 Core Strengths
-
-✔ Leadership & Team Management  
-✔ Public Speaking & Presentation  
-✔ Event Organization  
-✔ Crisis Management  
-✔ Emotional Intelligence  
-✔ Discipline & Integrity  
-
----
-
-# 🌐 Connect With Me
-
-<p align="center">
-<a href="https://github.com/YOUR_USERNAME"><img src="https://skillicons.dev/icons?i=github" height="40"/></a>
-<a href="https://linkedin.com/in/YOUR_LINK"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
-</p>
-
----
+## ⚡ Professional Identity Snapshot
 
 <div align="center">
 
-### 💬 Let's Build Impact. Not Just Projects.
+| Focus | Strength |
+|-------|----------|
+| 🎓 Engineering | Analytical Thinking |
+| 💻 Front-End | Structured Learning Path |
+| 🥋 Sports | Discipline & Competitive Edge |
+| 🌍 Leadership | Public Speaking & Team Coordination |
+| 🚀 Entrepreneurship | Founder – Al-Qimma Academy |
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0A192F"/>
+---
 
+# 💻 Front-End Diploma Journey
+
+🎓 Currently enrolled in **Front-End Diploma – Madrasa Platform**
+
+### ✅ Completed
+- HTML Fundamentals
+
+### 🔄 In Progress
+- CSS & Responsive Design
+
+### 🔜 Next
+- JavaScript (Core Concepts)
+- React.js
+- Real-World Projects
+- Deployment & Portfolio Launch
+
+---
+
+# 🛠 Tech Stack (Growing)
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,react,python,git,github,vscode" />
+</p>
+
+---
+
+# 🏆 Competitive Edge
+
+🥉 African Traditional Karate Championship Medalist  
+🥋 Black Belt 2nd Dan  
+⚖️ Certified Referee – Egyptian Karate Federation  
+🎤 Workshop Speaker & Event Leader  
+🏫 University Representative in AI Conference  
+
+---
+
+# 🚀 Impact & Leadership
+
+Founder of **Al-Qimma Academy**  
+Helping children develop:
+- Confidence
+- Discipline
+- Character Strength
+- Athletic Values
+
+Board Member – Al-Nour Charity Association  
+Organizer – Engineering Exhibition (Minister Attended)  
+Volunteer – National & International Events  
+
+---
+
+# 📈 2025 Roadmap
+
+```text
+[✔] Master HTML
+[🔄] Advanced CSS & Responsive Layouts
+[ ] JavaScript Deep Dive
+[ ] React Mastery
+[ ] Build 5 Professional Projects
+[ ] Launch Portfolio Website
+[ ] Start Freelancing
+[ ] Build Tech Personal Brand
